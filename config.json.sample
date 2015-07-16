@@ -1,0 +1,13 @@
+{
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:28.0) Gecko/20100101 Firefox/28.0",
+  "ali" : {
+    "user_name":"",
+    "password":"",
+    "cookie_file": "~/.ali/ali.cookies"
+  },
+  "ebay" : {
+    "user_name":"",
+    "password":"",
+    "cookie_file": "~/.ali/ebay.cookies"
+  }
+}
